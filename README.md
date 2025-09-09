@@ -62,7 +62,7 @@ evangadi-forem/
 1. **Clone the repository**  
 
 ```bash
-git clone https://github.com/your-username/evangadi-forem.git
+git clone https://github.com/hire12/Evangadi-Forem.git
 cd evangadi-forem
 ```
 
